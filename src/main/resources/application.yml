@@ -1,0 +1,70 @@
+
+server:
+  port: 8080
+spring:
+  application:
+    # 应用名称
+    name: manbing_admin
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://rm-2zeh53yxag7q2km81o.mysql.rds.aliyuncs.com:3306/manbing_2021?useUnicode=true&characterEncoding=utf-8&serverTimezone=Asia/Shanghai
+    username: hy_test
+    password: QNXwXS@nNLIDaWG1
+      #hikari数据库连接池
+    hikari:
+      pool-name: Retail_HikariCP
+      minimum-idle: 5 #最小空闲连接数量
+      idle-timeout: 180000 #空闲连接存活最大时间，默认600000（10分钟）
+      maximum-pool-size: 10 #连接池最大连接数，默认是10
+      auto-commit: true  #此属性控制从池返回的连接的默认自动提交行为,默认值：true
+      max-lifetime: 1800000 #此属性控制池中连接的最长生命周期，值0表示无限生命周期，默认1800000即30分钟
+      connection-timeout: 30000 #数据库连接超时时间,默认30秒，即30000
+      connection-test-query: SELECT 1
+  redis:
+    database: 14
+    #    Redis服务器地址
+    host: r-2zeidmd261gnqb407ppd.redis.rds.aliyuncs.com
+    #    Redis服务器连接端口
+    port: 6379
+    password: manbing_2021:AWfb*!LSXss8ZW$r
+    lettuce:
+      pool:
+        #连接池最大连接数
+        max-active: 8
+        #连接池最大阻塞等待时间（使用负值表示没有限制）
+        max-wait: -1
+        #连接池中的最大空闲连接
+        max-idle: 8
+        #连接池中的最小空闲连接
+        min-idle: 0
+      #连接超时时间（毫秒）
+    timeout: 5000
+    # 时间类型格式化，时区为 +8区
+    jackson:
+      date-format: yyyy-MM-dd HH:mm:ss
+      time-zone: GMT+8
+    # sa-token配置
+    sa-token:
+      # token名称 (同时也是cookie名称)
+      token-name: Authorization
+      # token有效期，单位s 默认30天, -1代表永不过期 30天 2592000
+      timeout: 86400
+      # token临时有效期 (指定时间内无操作就视为token过期) 单位: 秒
+      activity-timeout: -1
+      # 是否允许同一账号并发登录 (为true时允许一起登录, 为false时新登录挤掉旧登录)
+      allow-concurrent-login: false
+      # 在多人登录同一账号时，是否共用一个token (为true时所有登录共用一个token, 为false时每次登录新建一个token)
+      is-share: false
+      # token风格
+      token-style: random-64
+      # 是否开启全局侦听器
+      is-log: true
+#mybatis-plus:
+#    configuration:
+#      log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+#  mapper-locations: classpath*:mapper/**/*.xml   # xml扫描路径， 表示Mapper文件存放的位置，当Mapper文件跟对应的Mapper接口处于同一位置的时候可以不用指定该属性的值
+#  typeAliasesPackage: net.huayiyun.manbing.**.pojo.*  # 实体类扫描路径， 多个package用逗号或者分号分隔
+mybatis-plus:
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+

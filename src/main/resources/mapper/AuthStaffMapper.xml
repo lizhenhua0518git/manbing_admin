@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="net.huayiyun.manbing.mapper.AuthStaffMapper">
+
+    <select id="getPage" resultType="net.huayiyun.manbing.pojo.vo.StaffVO">
+        select
+          aus.staff_id docId,
+          aus.staff_name docName,
+          aus.staff_birth docBirth,
+          aus.staff_tel docTel,
+          aus.staff_account docAccount,
+          aus.staff_status docStatus
+        from
+          auth_staff aus
+        <where>
+          <if test="staffPageQo.docName != null and staffPageQo.docName !=''">
+             aus.staff_name like CONCAT('%',#{staffPageQo.docName,jdbcType=VARCHAR},'%')
+          </if>
+        </where>
+
+    </select>
+
+
+</mapper>

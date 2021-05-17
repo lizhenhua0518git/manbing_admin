@@ -1,0 +1,97 @@
+15:36:39.502 [main] INFO  n.h.m.ManbingAdminApplication - [logStarting,55] - Starting ManbingAdminApplication using Java 1.8.0_231 on DESKTOP-5P33UL2 with PID 5992 (F:\java\code\manbing_admin\target\classes started by lz in F:\java\code\manbing_admin)
+15:36:39.506 [main] INFO  n.h.m.ManbingAdminApplication - [logStartupProfileInfo,675] - No active profile set, falling back to default profiles: default
+15:36:40.817 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+15:36:40.817 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+15:36:40.818 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.45]
+15:36:40.900 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+15:36:42.127 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+15:36:42.199 [main] INFO  n.h.m.ManbingAdminApplication - [logStarted,61] - Started ManbingAdminApplication in 3.248 seconds (JVM running for 4.643)
+17:07:43.491 [main] INFO  n.h.m.ManbingAdminApplication - [logStarting,55] - Starting ManbingAdminApplication using Java 1.8.0_231 on DESKTOP-5P33UL2 with PID 14464 (F:\java\code\manbing_admin\target\classes started by lz in F:\java\code\manbing_admin)
+17:07:43.495 [main] INFO  n.h.m.ManbingAdminApplication - [logStartupProfileInfo,675] - No active profile set, falling back to default profiles: default
+17:07:45.061 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+17:07:45.063 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+17:07:45.063 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.45]
+17:07:45.173 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+17:07:45.497 [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+17:08:41.204 [main] INFO  n.h.m.ManbingAdminApplication - [logStarting,55] - Starting ManbingAdminApplication using Java 1.8.0_231 on DESKTOP-5P33UL2 with PID 4004 (F:\java\code\manbing_admin\target\classes started by lz in F:\java\code\manbing_admin)
+17:08:41.208 [main] INFO  n.h.m.ManbingAdminApplication - [logStartupProfileInfo,675] - No active profile set, falling back to default profiles: default
+17:08:42.507 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+17:08:42.508 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+17:08:42.508 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.45]
+17:08:42.590 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+17:08:42.856 [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+17:10:54.017 [main] INFO  n.h.m.ManbingAdminApplication - [logStarting,55] - Starting ManbingAdminApplication using Java 1.8.0_231 on DESKTOP-5P33UL2 with PID 12864 (F:\java\code\manbing_admin\target\classes started by lz in F:\java\code\manbing_admin)
+17:10:54.020 [main] INFO  n.h.m.ManbingAdminApplication - [logStartupProfileInfo,675] - No active profile set, falling back to default profiles: default
+17:10:55.329 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+17:10:55.329 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+17:10:55.330 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.45]
+17:10:55.406 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+17:10:55.647 [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+17:11:15.347 [main] INFO  n.h.m.ManbingAdminApplication - [logStarting,55] - Starting ManbingAdminApplication using Java 1.8.0_231 on DESKTOP-5P33UL2 with PID 13116 (F:\java\code\manbing_admin\target\classes started by lz in F:\java\code\manbing_admin)
+17:11:15.350 [main] INFO  n.h.m.ManbingAdminApplication - [logStartupProfileInfo,675] - No active profile set, falling back to default profiles: default
+17:11:16.588 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+17:11:16.589 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+17:11:16.589 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.45]
+17:11:16.664 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+17:11:18.037 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+17:11:18.226 [main] INFO  n.h.m.ManbingAdminApplication - [logStarted,61] - Started ManbingAdminApplication in 3.43 seconds (JVM running for 4.635)
+17:22:30.811 [main] INFO  n.h.m.ManbingAdminApplication - [logStarting,55] - Starting ManbingAdminApplication using Java 1.8.0_231 on DESKTOP-5P33UL2 with PID 13052 (F:\java\code\manbing_admin\target\classes started by lz in F:\java\code\manbing_admin)
+17:22:30.821 [main] INFO  n.h.m.ManbingAdminApplication - [logStartupProfileInfo,675] - No active profile set, falling back to default profiles: default
+17:22:32.246 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+17:22:32.247 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+17:22:32.247 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.45]
+17:22:32.329 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+17:22:33.819 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+17:22:34.022 [main] INFO  n.h.m.ManbingAdminApplication - [logStarted,61] - Started ManbingAdminApplication in 3.827 seconds (JVM running for 5.625)
+17:27:59.504 [main] INFO  n.h.m.ManbingAdminApplication - [logStarting,55] - Starting ManbingAdminApplication using Java 1.8.0_231 on DESKTOP-5P33UL2 with PID 6128 (F:\java\code\manbing_admin\target\classes started by lz in F:\java\code\manbing_admin)
+17:27:59.509 [main] INFO  n.h.m.ManbingAdminApplication - [logStartupProfileInfo,675] - No active profile set, falling back to default profiles: default
+17:28:00.769 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+17:28:00.770 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+17:28:00.770 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.45]
+17:28:00.866 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+17:28:02.423 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+17:28:02.680 [main] INFO  n.h.m.ManbingAdminApplication - [logStarted,61] - Started ManbingAdminApplication in 3.711 seconds (JVM running for 5.153)
+17:28:53.390 [main] INFO  n.h.m.ManbingAdminApplication - [logStarting,55] - Starting ManbingAdminApplication using Java 1.8.0_231 on DESKTOP-5P33UL2 with PID 12600 (F:\java\code\manbing_admin\target\classes started by lz in F:\java\code\manbing_admin)
+17:28:53.394 [main] INFO  n.h.m.ManbingAdminApplication - [logStartupProfileInfo,675] - No active profile set, falling back to default profiles: default
+17:28:54.626 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+17:28:54.626 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+17:28:54.627 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.45]
+17:28:54.704 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+17:28:56.117 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+17:28:56.326 [main] INFO  n.h.m.ManbingAdminApplication - [logStarted,61] - Started ManbingAdminApplication in 3.472 seconds (JVM running for 4.654)
+17:32:02.012 [http-nio-8080-exec-2] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+17:41:54.347 [main] INFO  n.h.m.ManbingAdminApplication - [logStarting,55] - Starting ManbingAdminApplication using Java 1.8.0_231 on DESKTOP-5P33UL2 with PID 12248 (F:\java\code\manbing_admin\target\classes started by lz in F:\java\code\manbing_admin)
+17:41:54.349 [main] INFO  n.h.m.ManbingAdminApplication - [logStartupProfileInfo,675] - No active profile set, falling back to default profiles: default
+17:41:55.840 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+17:41:55.841 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+17:41:55.841 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.45]
+17:41:55.927 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+17:41:57.343 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+17:41:57.552 [main] INFO  n.h.m.ManbingAdminApplication - [logStarted,61] - Started ManbingAdminApplication in 3.767 seconds (JVM running for 5.457)
+17:42:29.930 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+17:55:39.309 [main] INFO  n.h.m.ManbingAdminApplication - [logStarting,55] - Starting ManbingAdminApplication using Java 1.8.0_231 on DESKTOP-5P33UL2 with PID 9644 (F:\java\code\manbing_admin\target\classes started by lz in F:\java\code\manbing_admin)
+17:55:39.316 [main] INFO  n.h.m.ManbingAdminApplication - [logStartupProfileInfo,675] - No active profile set, falling back to default profiles: default
+17:55:40.917 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+17:55:40.918 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+17:55:40.918 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.45]
+17:55:41.008 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+17:55:42.562 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+17:55:42.794 [main] INFO  n.h.m.ManbingAdminApplication - [logStarted,61] - Started ManbingAdminApplication in 4.342 seconds (JVM running for 6.002)
+17:55:52.058 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+18:00:50.064 [main] INFO  n.h.m.ManbingAdminApplication - [logStarting,55] - Starting ManbingAdminApplication using Java 1.8.0_231 on DESKTOP-5P33UL2 with PID 9968 (F:\java\code\manbing_admin\target\classes started by lz in F:\java\code\manbing_admin)
+18:00:50.067 [main] INFO  n.h.m.ManbingAdminApplication - [logStartupProfileInfo,675] - No active profile set, falling back to default profiles: default
+18:00:51.327 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+18:00:51.328 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+18:00:51.328 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.45]
+18:00:51.403 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+18:00:52.871 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+18:00:53.080 [main] INFO  n.h.m.ManbingAdminApplication - [logStarted,61] - Started ManbingAdminApplication in 3.571 seconds (JVM running for 4.909)
+18:01:05.024 [http-nio-8080-exec-2] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+18:01:53.899 [main] INFO  n.h.m.ManbingAdminApplication - [logStarting,55] - Starting ManbingAdminApplication using Java 1.8.0_231 on DESKTOP-5P33UL2 with PID 15120 (F:\java\code\manbing_admin\target\classes started by lz in F:\java\code\manbing_admin)
+18:01:53.902 [main] INFO  n.h.m.ManbingAdminApplication - [logStartupProfileInfo,675] - No active profile set, falling back to default profiles: default
+18:01:55.179 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+18:01:55.180 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+18:01:55.180 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.45]
+18:01:55.258 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+18:01:56.669 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+18:01:56.867 [main] INFO  n.h.m.ManbingAdminApplication - [logStarted,61] - Started ManbingAdminApplication in 3.444 seconds (JVM running for 5.085)
